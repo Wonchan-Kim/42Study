@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-printf("Hello world!"\n);
+printf("Hello world!\n");
+printf("amended in test1 branch\n");
 }
 return 0;
